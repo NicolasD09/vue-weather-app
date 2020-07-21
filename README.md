@@ -1,5 +1,7 @@
 # weather-app
 
+![image](./capture.png)
+
 ### About this app
 * This app is a simple weather application based on the Openweather API
 * Built with VueJS and Bootstrap 4
