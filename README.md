@@ -1,5 +1,14 @@
 # weather-app
 
+### About this app
+* This app is a simple weather application based on the Openweather API
+* Built with VueJS and Bootstrap 4
+* The API key has to be added before usage
+
+### Reach me
+Reach me on [Twitter](https://twitter.com/NDX_dev) @NDX_dev  
+Reach me on Discord @Nic#6093 
+
 ## Project setup
 ```
 npm install
@@ -22,3 +31,5 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
