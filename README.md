@@ -1,6 +1,6 @@
 # weather-app
 
-![image](https://github.com/NicolasD09/vue-weather-app/blob/master/Capture.PNG)
+![image](https://github.com/NicolasD09/vue-weather-app/blob/master/screenshot.PNG)
 
 ### About this app
 * This app is a simple weather application based on the Openweather API
