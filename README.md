@@ -3,9 +3,9 @@
 ![image](https://github.com/NicolasD09/vue-weather-app/blob/master/screenshot.PNG)
 
 ### About this app
+* See it at [weather.nicdx.dev](weather.nicdx.dev)
 * This app is a simple weather application based on the Openweather API
 * Built with VueJS and Bootstrap 4
-* The API key has to be added before usage
 
 ### Reach me
 Reach me on [Twitter](https://twitter.com/NDX_dev) @NDX_dev  
